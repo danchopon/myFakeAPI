@@ -27,7 +27,7 @@
      "isNotificationEnabled": false,
      "details": "asdfasdfasdfadsfasdf"
     },
-{
+    {
      "id": 4,
      "taskLabel": "Hello fooooour.",
      "isDone": false,
@@ -36,5 +36,87 @@
      "isNotificationEnabled": false,
      "details": "poisdfaasfd"
     }
+],
+"requests": [
+  {
+    "id": 1,
+    "title": "Request one.",
+    "description": "Request description one",
+    "date": "2011-07-14T19:43:37+0100",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "title": "Request two.",
+    "description": "Request description two",
+    "date": "2011-07-14T19:43:37+0100",
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "title": "Request three.",
+    "description": "Request description three",
+    "date": "2011-07-14T19:43:37+0100",
+    "status": "rejected"
+  },
+  {
+    "id": 4,
+    "title": "Request four.",
+    "description": "Request description four",
+    "date": "2011-07-14T19:43:37+0100",
+    "status": "in_process"
+  },
+  {
+    "id": 5,
+    "title": "Request five.",
+    "description": "Request description five",
+    "date": "2011-07-14T19:43:37+0100",
+    "status": "done"
+  },
+  {
+    "id": 6,
+    "title": "Request six.",
+    "description": "Request description six",
+    "date": "2011-07-14T19:43:37+0100",
+    "status": "pending"
+  }
+],
+"announcements": [
+  {
+    "id": 1,
+    "title": "Announcement one.",
+    "description": "Announcement description one",
+    "date": "2011-07-14T19:43:37+0100"
+  },
+  {
+    "id": 2,
+    "title": "Announcement two.",
+    "description": "Announcement description two",
+    "date": "2011-07-14T19:43:37+0100"
+  },
+  {
+    "id": 3,
+    "title": "Announcement three.",
+    "description": "Announcement description three",
+    "date": "2011-07-14T19:43:37+0100"
+  },
+  {
+    "id": 4,
+    "title": "Announcement four.",
+    "description": "Announcement description four",
+    "date": "2011-07-14T19:43:37+0100"
+  },
+  {
+    "id": 5,
+    "title": "Announcement five.",
+    "description": "Announcement description five",
+    "date": "2011-07-14T19:43:37+0100"
+  },
+  {
+    "id": 6,
+    "title": "Announcement six.",
+    "description": "Announcement description six",
+    "date": "2011-07-14T19:43:37+0100"
+  }
 ]
 }

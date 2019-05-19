@@ -40,82 +40,100 @@
 "requests": [
   {
     "id": 1,
-    "title": "Request one.",
+    "title": "Труба сломалась",
     "description": "Request description one",
     "date": "2011-07-14T19:43:37+0100",
-    "status": "pending"
+    "status": "pending",
+    "category": "Сантехника",
+    "author": "Daniyar Erkinov",
+    "room": "Dormitory 1, Room 124"
   },
   {
     "id": 2,
-    "title": "Request two.",
+    "title": "Перегорела лампочка",
     "description": "Request description two",
     "date": "2011-07-14T19:43:37+0100",
-    "status": "pending"
+    "status": "pending",
+    "category": "Электрика",
+    "author": "Khusan Aliev",
+    "room": "Dormitory 1, Room 304"
   },
   {
     "id": 3,
-    "title": "Request three.",
+    "title": "Сломалась кровать",
     "description": "Request description three",
     "date": "2011-07-14T19:43:37+0100",
-    "status": "rejected"
+    "status": "rejected",
+    "category": "Плотник",
+    "author": "Daniyar Erkinov",
+    "room": "Dormitory 1, Room 444"
   },
   {
     "id": 4,
-    "title": "Request four.",
+    "title": "Течет кран",
     "description": "Request description four",
     "date": "2011-07-14T19:43:37+0100",
-    "status": "in_process"
+    "status": "in_process",
+    "category": "Сантехника",
+    "author": "Khusan Aliev",
+    "room": "Dormitory 1, Room 334"
   },
   {
     "id": 5,
-    "title": "Request five.",
+    "title": "Сломалась тумбочка",
     "description": "Request description five",
     "date": "2011-07-14T19:43:37+0100",
-    "status": "done"
+    "status": "done",
+    "category": "Плотник",
+    "author": "Daniyar Erkinov",
+    "room": "Dormitory 1, Room 133"
   },
   {
     "id": 6,
-    "title": "Request six.",
+    "title": "Провод оголенный",
     "description": "Request description six",
     "date": "2011-07-14T19:43:37+0100",
-    "status": "pending"
+    "status": "pending",
+    "category": "Сантехника",
+    "author": "Khusan Aliev",
+    "room": "Dormitory 1, Room 225"
   }
 ],
 "announcements": [
   {
     "id": 1,
-    "title": "Announcement one.",
-    "description": "Announcement description one",
+    "title": "Я пес, но кот в собачьей шкуре",
+    "description": "Вообще-то я пес, но люди говорят, что по характеру я кот в собачьей шкуре, правда-правда. Добавлю скромно: добрейший кот в лохматой черной шкуре. Люблю: детей, кошек, собак и всех-всех! Вот такой я родился. Мне год и вырос я до 55 см, люди говорят, что у меня прикольная мордаха: я все время улыбаюсь. Возьмите меня к себе домой, ну, пожалуйста! Обещаю любить вас и охранять. Ваш Черныш. Звоните уже быстрее, тел. Х-ХХХ-ХХХ Катя, Х-ХХХ-ХХХ Даша.",
     "date": "2011-07-14T19:43:37+0100"
   },
   {
     "id": 2,
-    "title": "Announcement two.",
-    "description": "Announcement description two",
+    "title": "Внимание! Единая Морская Служба",
+    "description": "Внимание! Внимание! Если Вы хотите в море рекламы оказаться на гребне волны – плывите  в Единую Морскую Службу Объявлений! Там Вас ждут профессиональные рекламные золотые рыбки! Единая Морская Служба Объявлений – коралловый рекламный риф, с буйством рекламных услуг! Мы поможем с выбором и быстро оформим Ваш заказ! Мы на службе у Вас! Наши любимые рекламодатели!",
     "date": "2011-07-14T19:43:37+0100"
   },
   {
     "id": 3,
-    "title": "Announcement three.",
-    "description": "Announcement description three",
+    "title": "Стоматолог",
+    "description": "Доктор Борода. Тот самый доктор. Стоматологическая клиника Доктор Борода",
     "date": "2011-07-14T19:43:37+0100"
   },
   {
     "id": 4,
-    "title": "Announcement four.",
-    "description": "Announcement description four",
+    "title": "Бесплатный лексус руммейтам",
+    "description": "Отдам Lexus Gs 450 в добрые руки. Машина 2008 г.в. Причина - заполнилась пепельница. Не могу вытащить.",
     "date": "2011-07-14T19:43:37+0100"
   },
   {
     "id": 5,
-    "title": "Announcement five.",
-    "description": "Announcement description five",
+    "title": "Женские часики",
+    "description": "Продаются женские часики – один часик – 50$",
     "date": "2011-07-14T19:43:37+0100"
   },
   {
     "id": 6,
-    "title": "Announcement six.",
-    "description": "Announcement description six",
+    "title": "Заработал 100 баксов",
+    "description": "Я тут посидел 2 часа за компьютером, заработал 100 баксов. И вы сможете.",
     "date": "2011-07-14T19:43:37+0100"
   }
 ]

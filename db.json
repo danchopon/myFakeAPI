@@ -102,14 +102,14 @@
 "announcements": [
   {
     "id": 1,
-    "title": "Я пес, но кот в собачьей шкуре",
-    "description": "Вообще-то я пес, но люди говорят, что по характеру я кот в собачьей шкуре, правда-правда. Добавлю скромно: добрейший кот в лохматой черной шкуре. Люблю: детей, кошек, собак и всех-всех! Вот такой я родился. Мне год и вырос я до 55 см, люди говорят, что у меня прикольная мордаха: я все время улыбаюсь. Возьмите меня к себе домой, ну, пожалуйста! Обещаю любить вас и охранять. Ваш Черныш. Звоните уже быстрее, тел. Х-ХХХ-ХХХ Катя, Х-ХХХ-ХХХ Даша.",
+    "title": "receive no call",
+    "description": "In the event that our area experiences severe weather or other emergency conditions, your immediate supervisor will notify you by telephone if you are not to report for work. If you receive no call, and are still concerned, listen to radio ABCD, 1170 AM for information every thirty minutes on the hour and half hour.",
     "date": "2011-07-14T19:43:37+0100"
   },
   {
     "id": 2,
-    "title": "Внимание! Единая Морская Служба",
-    "description": "Внимание! Внимание! Если Вы хотите в море рекламы оказаться на гребне волны – плывите  в Единую Морскую Службу Объявлений! Там Вас ждут профессиональные рекламные золотые рыбки! Единая Морская Служба Объявлений – коралловый рекламный риф, с буйством рекламных услуг! Мы поможем с выбором и быстро оформим Ваш заказ! Мы на службе у Вас! Наши любимые рекламодатели!",
+    "title": "Sample Title",
+    "description": "If the highway patrol considers conditions too hazardous for safe travel, we will close the office. However, if the office is open, we expect employees to make every effort to be at work. We consider time missed when the office is officially open as employee's personal time off. If you have questions regarding this policy, please speak to your immediate supervisor.",
     "date": "2011-07-14T19:43:37+0100"
   },
   {

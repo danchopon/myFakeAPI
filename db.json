@@ -41,62 +41,62 @@
   {
     "id": 1,
     "title": "Труба сломалась",
-    "description": "Request description one",
-    "date": "2011-07-14T19:43:37+0100",
-    "status": "pending",
+    "description": "Нужно быстрее починить",
+    "date": "2019-01-28T19:43:37+0100",
+    "status": "Ожидает",
     "category": "Сантехника",
-    "author": "Daniyar Erkinov",
-    "room": "Dormitory 1, Room 124"
+    "author": "Данияр Эркинов",
+    "room": "Общежитие 1, Комната 2/124"
   },
   {
     "id": 2,
     "title": "Перегорела лампочка",
-    "description": "Request description two",
-    "date": "2011-07-14T19:43:37+0100",
-    "status": "pending",
+    "description": "Не могу жить без света",
+    "date": "2019-02-14T19:43:37+0100",
+    "status": "Ожидает",
     "category": "Электрика",
-    "author": "Khusan Aliev",
-    "room": "Dormitory 1, Room 304"
+    "author": "Хусан Алиев",
+    "room": "Общежитие 1, Комната 1/304"
   },
   {
     "id": 3,
     "title": "Сломалась кровать",
-    "description": "Request description three",
-    "date": "2011-07-14T19:43:37+0100",
-    "status": "rejected",
+    "description": "Не могу так спать",
+    "date": "2019-03-22T19:43:37+0100",
+    "status": "Отклонено",
     "category": "Плотник",
-    "author": "Daniyar Erkinov",
-    "room": "Dormitory 1, Room 444"
+    "author": "Данияр Эркинов",
+    "room": "Общежитие 1, Комната 3/444"
   },
   {
     "id": 4,
     "title": "Течет кран",
-    "description": "Request description four",
-    "date": "2011-07-14T19:43:37+0100",
-    "status": "in_process",
+    "description": "Срочно почините пожалуйста",
+    "date": "2019-05-14T19:43:37+0100",
+    "status": "В процессе",
     "category": "Сантехника",
-    "author": "Khusan Aliev",
-    "room": "Dormitory 1, Room 334"
+    "author": "Хусан Алиев",
+    "room": "Общежитие 2, Комната 1/334"
   },
   {
     "id": 5,
     "title": "Сломалась тумбочка",
-    "description": "Request description five",
-    "date": "2011-07-14T19:43:37+0100",
-    "status": "done",
+    "description": "Некуда класть вещи, срочно!",
+    "date": "2019-03-14T19:43:37+0100",
+    "status": "Выполнено",
     "category": "Плотник",
-    "author": "Daniyar Erkinov",
-    "room": "Dormitory 1, Room 133"
+    "author": "Данияр Эркинов",
+    "room": "Обещежитие 3, Комната 1/133"
   },
   {
     "id": 6,
     "title": "Провод оголенный",
-    "description": "Request description six",
-    "date": "2011-07-14T19:43:37+0100",
-    "status": "pending",
+    "description": "В комнате опасно! Данияр помер",
+    "date": "2019-06-14T19:43:37+0100",
+    "status": "Ожидает",
     "category": "Сантехника",
-    "author": "Khusan Aliev",
-    "room": "Dormitory 1, Room 225"
+    "author": "Хусан Алиев",
+    "room": "Общежитие 1, Комната 225"
   }
 ],
 "announcements": [

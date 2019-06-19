@@ -102,38 +102,38 @@
 "announcements": [
   {
     "id": 1,
-    "title": "receive no call",
-    "description": "In the event that our area experiences severe weather or other emergency conditions, your immediate supervisor will notify you by telephone if you are not to report for work. If you receive no call, and are still concerned, listen to radio ABCD, 1170 AM for information every thirty minutes on the hour and half hour.",
-    "date": "2011-07-14T19:43:37+0100"
+    "title": "Завтра субботник!!!",
+    "description": "Приходить со своими вениками. Присутствовать обязательно!",
+    "date": "2019-03-23T19:43:37+0100"
   },
   {
     "id": 2,
-    "title": "Sample Title",
-    "description": "If the highway patrol considers conditions too hazardous for safe travel, we will close the office. However, if the office is open, we expect employees to make every effort to be at work. We consider time missed when the office is officially open as employee's personal time off. If you have questions regarding this policy, please speak to your immediate supervisor.",
-    "date": "2011-07-14T19:43:37+0100"
+    "title": "Собираем по 50 сом на новые веники.",
+    "description": "Пожалуйста все в обязательном порядке сдайте деньги.",
+    "date": "2019-04-25T19:43:37+0100"
   },
   {
     "id": 3,
-    "title": "Стоматолог",
-    "description": "Доктор Борода. Тот самый доктор. Стоматологическая клиника Доктор Борода",
-    "date": "2011-07-14T19:43:37+0100"
+    "title": "Нужно убраться в корридоре общежития №3 на втором этаже",
+    "description": "Кто-то оставил мусор и не убрал за собой",
+    "date": "2019-05-14T19:43:37+0100"
   },
   {
     "id": 4,
-    "title": "Бесплатный лексус руммейтам",
-    "description": "Отдам Lexus Gs 450 в добрые руки. Машина 2008 г.в. Причина - заполнилась пепельница. Не могу вытащить.",
-    "date": "2011-07-14T19:43:37+0100"
+    "title": "Внимание внимание! Бесплатный концерт",
+    "description": "В филармонии будет проходить концерт, желающие обращайтесь в комнату 2/304",
+    "date": "2019-06-14T19:43:37+0100"
   },
   {
     "id": 5,
-    "title": "Женские часики",
-    "description": "Продаются женские часики – один часик – 50$",
+    "title": "Собираем по 50 сом на новые веники.",
+    "description": "Кто-то оставил мусор и не убрал за собой",
     "date": "2011-07-14T19:43:37+0100"
   },
   {
     "id": 6,
-    "title": "Заработал 100 баксов",
-    "description": "Я тут посидел 2 часа за компьютером, заработал 100 баксов. И вы сможете.",
+    "title": "Завтра субботник!!!",
+    "description": "Приходить со своими вениками. Присутствовать обязательно!",
     "date": "2011-07-14T19:43:37+0100"
   }
 ]
